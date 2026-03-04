@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm OluwaFunke  
 
-Aspiring Data Analyst learning Excel, SQL, and Power BI. I am building simple and clear projects that focus on data cleaning, analysis, and reporting. My goal is to grow through consistent practice and real world projects.
+A Data Analyst learning Excel, SQL, and Power BI. I am building simple and clear projects that focus on data cleaning, analysis, and reporting. My goal is to grow through consistent practice and real world projects.
 
 ---
 
